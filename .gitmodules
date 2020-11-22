@@ -19,3 +19,6 @@
 [submodule "login-FlaskSqliteExample"]
 	path = login-FlaskSqliteExample
 	url = https://github.com/manojap/login-FlaskSqliteExample
+[submodule "parse-json-from-github"]
+	path = parse-json-from-github
+	url = https://github.com/manojap/parse-json-from-github
