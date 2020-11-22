@@ -22,3 +22,6 @@
 [submodule "parse-json-from-github"]
 	path = parse-json-from-github
 	url = https://github.com/manojap/parse-json-from-github
+[submodule "wallpaperflare-downloader"]
+	path = wallpaperflare-downloader
+	url = https://github.com/manojap/wallpaperflare-downloader
