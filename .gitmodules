@@ -1,0 +1,21 @@
+[submodule "unsplashbot"]
+	path = unsplashbot
+	url = https://github.com/manojap/unsplashbot
+[submodule "pexelsbot"]
+	path = pexelsbot
+	url = https://github.com/manojap/pexelsbot
+[submodule "RapidAPI_Python_request"]
+	path = RapidAPI_Python_request
+	url = https://github.com/manojap/RapidAPI_Python_request
+[submodule "Streamlit_sales_history_app"]
+	path = Streamlit_sales_history_app
+	url = https://github.com/manojap/Streamlit_sales_history_app
+[submodule "Panda-data-frame-example"]
+	path = Panda-data-frame-example
+	url = https://github.com/manojap/Panda-data-frame-example
+[submodule "Python-Flask-RSS-Reader-"]
+	path = Python-Flask-RSS-Reader-
+	url = https://github.com/manojap/Python-Flask-RSS-Reader-
+[submodule "login-FlaskSqliteExample"]
+	path = login-FlaskSqliteExample
+	url = https://github.com/manojap/login-FlaskSqliteExample
